@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 09/25/18 10:32:51
 =======
 ﻿Log file open, 09/25/18 10:40:05
@@ -10,6 +11,9 @@
 =======
 ﻿Log file open, 09/25/18 10:32:12
 >>>>>>> 07a4711a3a181492a44e34fb7cb1737b438eac08
+=======
+﻿Log file open, 09/20/18 14:19:15
+>>>>>>> parent of 774f4b4... Refined Heagney platform
 =======
 ﻿Log file open, 09/20/18 14:19:15
 >>>>>>> parent of 774f4b4... Refined Heagney platform
@@ -34,6 +38,7 @@ LogPlatformFile: Not using cached read wrapper
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogInit: Display: RandInit(-177599890) SRandInit(-177599890).
 =======
 LogInit: Display: RandInit(-45125226) SRandInit(-45125226).
@@ -41,6 +46,9 @@ LogInit: Display: RandInit(-45125226) SRandInit(-45125226).
 =======
 LogInit: Display: RandInit(-1743937705) SRandInit(-1743937705).
 >>>>>>> 07a4711a3a181492a44e34fb7cb1737b438eac08
+=======
+LogInit: Display: RandInit(-1842220134) SRandInit(-1842220134).
+>>>>>>> parent of 774f4b4... Refined Heagney platform
 =======
 LogInit: Display: RandInit(-1842220134) SRandInit(-1842220134).
 >>>>>>> parent of 774f4b4... Refined Heagney platform
@@ -59,6 +67,7 @@ LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 LogStats: Stats thread started at 3.130948
 =======
 LogStats: Stats thread started at 2.977502
@@ -66,6 +75,9 @@ LogStats: Stats thread started at 2.977502
 =======
 LogStats: Stats thread started at 3.162294
 >>>>>>> 07a4711a3a181492a44e34fb7cb1737b438eac08
+=======
+LogStats: Stats thread started at 0.165489
+>>>>>>> parent of 774f4b4... Refined Heagney platform
 =======
 LogStats: Stats thread started at 0.165489
 >>>>>>> parent of 774f4b4... Refined Heagney platform
@@ -251,6 +263,7 @@ LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
 LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1892,6 +1905,13 @@ LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
 >>>>>>> parent of 774f4b4... Refined Heagney platform
+=======
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+>>>>>>> parent of 774f4b4... Refined Heagney platform
 [2018.09.20-18.19.16:545][  0]LogInit: Selected Device Profile: [Windows]
 [2018.09.20-18.19.16:545][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
 [2018.09.20-18.19.16:552][  0]LogInit: Computer: NQSC307-MSI-BH
@@ -3104,6 +3124,9 @@ LogInit: Object subsystem initialized
 [2018.09.20-20.36.13:899][113]Log file closed, 09/20/18 16:36:13
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 774f4b4... Refined Heagney platform
+=======
 >>>>>>> parent of 774f4b4... Refined Heagney platform
 =======
 >>>>>>> parent of 774f4b4... Refined Heagney platform
